@@ -9,6 +9,7 @@ The divs are told a part by their class names; container for the parent div and 
 The purpose or reason for this task is to understand the use and functionality of flexbox and the properties under it.
 
 -Flexbox properties you used:.-
+
 I used the main flexbox properties like: justify-content, flex-wrap ,align-items.
 
 -Challenges faced.-
